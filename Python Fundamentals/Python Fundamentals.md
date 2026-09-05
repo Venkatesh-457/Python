@@ -1,4 +1,4 @@
-# Python Language — Complete Pre-OOP Notes
+# Python Language 
 
 > A complete language-level guide to Python before Object-Oriented Programming.
 >
